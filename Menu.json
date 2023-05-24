@@ -1,0 +1,40 @@
+{
+    "practicas": [
+        {
+            "nombre": "Práctica 1",
+            "archivo": "https://criish18.github.io/Biografia/"
+        },
+        {
+            "nombre": "Práctica 2",
+            "archivo": "https://criish18.github.io/Etiquetas/"
+        },
+        {
+            "nombre": "Práctica 3",
+            "archivo": "https://criish18.github.io/Banco.github.io/"
+        },
+        {
+            "nombre": "Práctica 4",
+            "archivo": "https://criish18.github.io/Validador/"
+        },
+        {
+            "nombre": "Práctica 5",
+            "archivo": "https://criish18.github.io/Menu_Dinamico/"
+        },
+        {
+            "nombre": "Práctica 6",
+            "archivo": "https://criish18.github.io/Formulario/"
+        },
+        {
+            "nombre": "Práctica 7",
+            "archivo": "https://criish18.github.io/GeneradorQR/"
+        },
+        {
+            "nombre": "Práctica 8",
+            "archivo": "https://criish18.github.io/Grafico/"
+        },
+        {
+            "nombre": "Práctica 9",
+            "archivo": "http://crish18.42web.io/formulario/"
+        }        
+    ]
+}
